@@ -1,7 +1,7 @@
 # Análisis de Casos de Dengue en Argentina
 
 [![Abrir en Colab](https://colab.research.google.com/github/cristianccr/analisis-casos-dengue/blob/main/Modulo2.ipynb)
-
+[Abrir cuaderno en Colab](https://colab.research.google.com/github/cristianccr/analisis-casos-dengue/blob/main/Modulo2.ipynb)
 
 ## Descripción
 Este proyecto analiza los casos confirmados de Dengue en Argentina para el año 2024, utilizando Python, SQLite y herramientas de visualización como Plotly.
@@ -29,6 +29,7 @@ El dashboard interactivo utiliza Plotly para crear gráficos interactivos.
 
 ## Carga del archivo en SQLite
 El código para cargar los datos en la base de datos SQLite está listo, y puedes usar el script para crear la base de datos de manera sencilla.
+
 
 
 
